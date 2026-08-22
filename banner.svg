@@ -1,0 +1,52 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color"
+          values="#2563EB;#7C3AED;#2563EB"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED">
+        <animate attributeName="stop-color"
+          values="#7C3AED;#2563EB;#7C3AED"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <style>
+      .name {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 46px;
+        font-weight: 700;
+        fill: #ffffff;
+        opacity: 0;
+        animation: fadeIn 1.2s ease-out 0.2s forwards;
+      }
+      .subtitle {
+        font-family: 'Courier New', monospace;
+        font-size: 20px;
+        fill: #e0e7ff;
+        opacity: 0;
+        animation: fadeIn 1.2s ease-out 0.8s forwards;
+      }
+      .cursor {
+        fill: #e0e7ff;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bgGradient)" />
+
+  <text x="50" y="110" class="name">Palash Mulchandani</text>
+  <text x="50" y="150" class="subtitle">Full-Stack AI Developer · Building AI Agents &amp; LLM Products</text>
+  <rect x="50" y="160" width="10" height="20" class="cursor" />
+</svg>
