@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Palash%20Mulchandani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Developer%20%7C%20Building%20AI%20Agents%20%26%20LLM%20Products&descAlignY=58&descSize=18" />
+# Palash Mulchandani
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Products;Agentic+AI+Systems+%7C+RAG+%7C+Full-Stack+Engineering;CS+Student+%40+Medicaps+University;Building+Multi-Agent+AI+Systems" alt="Typing SVG" />
+### Full-Stack AI Developer | Building AI Agents & LLM Products
 
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/palash-mulchandani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:palashmulchandani1687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=PalashMulchandani&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 </div>
 
 <br>
@@ -96,15 +95,6 @@ Multi-agent system that re-audits closed support tickets to catch false resoluti
 
 <br>
 
-### GitHub Stats
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PalashMulchandani&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalashMulchandani&layout=compact&hide_border=true&cache_seconds=1800" />
-</div>
-
-<br>
-
 ### Currently
 
 - Building a multi-agent AI system for a national hackathon (Freshworks-powered Track 1: Customer & Employee Experience)
@@ -117,5 +107,3 @@ Multi-agent system that re-audits closed support tickets to catch false resoluti
 <div align="center">
 <i>"Building AI products, not tutorials."</i>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" />
