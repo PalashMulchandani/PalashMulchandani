@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Palash%20Mulchandani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Developer%20%7C%20Building%20AI%20Agents%20%26%20LLM%20Products&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Products;Agentic+AI+Systems+%7C+RAG+%7C+Full-Stack+Engineering;CS+Student+%40+Medicaps+University;Building+an+AI+Job+Search+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Products;Agentic+AI+Systems+%7C+RAG+%7C+Full-Stack+Engineering;CS+Student+%40+Medicaps+University;Building+Multi-Agent+AI+Systems" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/palash-mulchandani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:palashmulchandani1687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=PalashMulchandani&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 </div>
 
 <br>
@@ -19,7 +20,7 @@
 - Building production-grade AI products, not tutorial projects
 - Focused on agentic AI systems, RAG, and full-stack engineering
 - Independent AI Developer, shipped multiple AI applications end-to-end solo
-- Currently building an AI-powered job search platform (multi-agent system)
+- Currently building multi-agent AI systems for a national hackathon (Track: Customer & Employee Experience)
 
 <br>
 
@@ -83,13 +84,11 @@ AI wellness platform with counselling chat, study planner, and gamification.
 </td>
 <td width="50%">
 
-**AI Job Search Platform** *(In Development)*
+**[Second Read — AI Ticket Auditor](https://github.com/PalashMulchandani/second-read)** *(In Progress)*
 
-Multi-agent pipeline: finds jobs, ranks by resume match, tailors resume, drafts outreach — with human approval before any send.
+Multi-agent system that re-audits closed support tickets to catch false resolutions — built for a national AI agent hackathon (Customer & Employee Experience track).
 
-`Python` `FastAPI` `LangGraph` `React`
-
-Private repo, building toward a real product
+`Python` `FastAPI` `LangGraph` `React` `MCP`
 
 </td>
 </tr>
@@ -100,15 +99,15 @@ Private repo, building toward a real product
 ### GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PalashMulchandani&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalashMulchandani&layout=compact&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PalashMulchandani&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalashMulchandani&layout=compact&hide_border=true&cache_seconds=1800" />
 </div>
 
 <br>
 
 ### Currently
 
-- Building a full multi-agent AI SaaS product from architecture to deployment
+- Building a multi-agent AI system for a national hackathon (Freshworks-powered Track 1: Customer & Employee Experience)
 - Learning production-grade agent orchestration and system design
 - Actively pursuing AI/GenAI internships
 - Reach me at **palashmulchandani1687@gmail.com**
