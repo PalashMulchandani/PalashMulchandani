@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/PalashMulchandani/PalashMulchandani/main/activity-pulse.svg" width="100%">
+</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -92,9 +96,9 @@ AI wellness platform with counselling chat, study planner, and gamification.
 <td width="50%" valign="top">
 
 ### 🔎 [Second Read](https://github.com/PalashMulchandani/second-read)
-**AI Ticket Auditor** — *In Progress*
+**AI Ticket Auditor** — *Prototype*
 
-Multi-agent system that re-audits closed support tickets to catch false resolutions. Built for a national AI agent hackathon (Customer & Employee Experience track).
+Multi-agent system that re-audits closed support tickets to catch false resolutions. Built with a teammate for a national AI agent hackathon (Customer & Employee Experience track).
 
 `Python` `FastAPI` `LangGraph` `React` `MCP`
 
@@ -106,9 +110,8 @@ Multi-agent system that re-audits closed support tickets to catch false resoluti
 
 ## Currently
 
-- 🚀 Building a multi-agent AI system for a national hackathon (Freshworks-powered Track 1: Customer & Employee Experience)
-- 📚 Learning production-grade agent orchestration and system design
 - 🎯 Actively pursuing AI/GenAI internships
+- 📚 Deepening multi-agent orchestration and system design skills
 - 📫 Reach me at **palashmulchandani1687@gmail.com**
 
 <br>
