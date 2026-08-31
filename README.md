@@ -22,7 +22,7 @@
 class Palash:
     def __init__(self):
         self.role     = "Full-Stack AI Developer"
-        self.study    = "B.Tech CSE, Medicaps University"
+        self.study    = "B.Tech CSE, SVVV University, Indore"
         self.focus    = ["Agentic AI", "RAG", "Multi-Agent Systems", "Full-Stack Engineering"]
         self.building = "Multi-agent AI systems — shipped end-to-end, solo"
         self.goal     = "AI/GenAI internships & building AI products, not tutorials"
